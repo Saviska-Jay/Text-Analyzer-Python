@@ -1,2 +1,6 @@
 # Text Analyzer Python
  This is a Text Analyzer Program Built Using Python...
+
+ Sample Text Paragraph 1 : The SUN rose early this morning, casting a golden glow over the city. Birds chirped excitedly, and people began to stir in their homes. "Can you believe it's already June?" someone exclaimed, their voice filled with disbelief. The day was promising to be warm and bright; perfect for a picnic or a walk in the park. Why not take advantage of such BEAUTIFUL weather? As the hours passed, more and more people ventured out, each enjoying the SUNSHINE and the sense of FREEDOM it brought. How could anyone resist the allure of a perfect summer day?
+
+  Sample Text Paragraph 2 : The RIVER rushed past, its waters glistening under the midday sun. Along its banks, colorful wildflowers swayed gently in the breeze, adding a vibrant contrast to the serene landscape. "Have you ever seen anything so beautiful?" Maria exclaimed, her eyes wide with wonder. The path meandered alongside the river, leading deeper into the forest where ancient trees stood tall and proud. As they walked, birds sang melodies that echoed through the canopy above. Suddenly, a deer darted across the trail, disappearing into the underbrush. "Did you see that?" John asked, his voice filled with excitement. They continued their journey, each step bringing them closer to the heart of nature's majesty.
